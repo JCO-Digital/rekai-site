@@ -1,25 +1,19 @@
-theme := wp-content/themes/ilme
-
 all: install build
 
 ci: ci-install build
 
 ci-install:
 	composer install --no-dev --no-interaction --optimize-autoloader
-	cd $(theme); pnpm i
 
 install:
 	composer install
-	cd $(theme); pnpm i
 
 build:
-	cd $(theme); pnpm build
+	echo "nothing here at the moment"
 
 watch:
-	cd $(theme); pnpm watch
+	echo "nothing here at the moment"
 
 clean:
-	rm -rf $(theme)/dist
-	rm -rf $(theme)/node_modules
 	rm -rf node_modules
 	rm -rf vendor
