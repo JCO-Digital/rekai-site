@@ -1,4 +1,5 @@
 projectName = "rekai"
 template = "blank"
 localDomain = "rekai.localhost"
-domains = [ "rekai.localhost" ]
+remoteDomain = "rekai.vi.bojaco.com"
+domains = ["rekai.localhost"]
