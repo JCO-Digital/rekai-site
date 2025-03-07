@@ -9,10 +9,10 @@ install:
 	composer install
 
 build:
-	echo "nothing here at the moment"
+	@echo "nothing here at the moment"
 
 watch:
-	echo "nothing here at the moment"
+	@echo "nothing here at the moment"
 
 clean:
 	rm -rf node_modules
