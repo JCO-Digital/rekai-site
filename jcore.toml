@@ -2,4 +2,7 @@ projectName = "rekai"
 template = "blank"
 localDomain = "rekai.localhost"
 remoteDomain = "rekai.vi.bojaco.com"
+remoteHost = "rekai@vi.bojaco.com"
+remotePath = "files"
 domains = ["rekai.localhost"]
+pluginInstall = "composer"
