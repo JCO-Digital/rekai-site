@@ -6,3 +6,4 @@ remoteHost = "rekai@vi.bojaco.com"
 remotePath = "files"
 domains = ["rekai.localhost"]
 pluginInstall = "composer"
+dbPrefix = "mmn_"
