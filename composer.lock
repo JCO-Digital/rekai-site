@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8f6e16fc2f5973988f0ef22a017fd2dc",
+    "content-hash": "8947467b4c8c3cb079b5cf4722aba3af",
     "packages": [
         {
             "name": "composer/installers",
@@ -153,7 +153,7 @@
             "time": "2024-06-24T20:46:46+00:00"
         },
         {
-            "name": "jcodigital/rekai-wordpress",
+            "name": "jcodigital/rekai",
             "version": "v1.4.2",
             "source": {
                 "type": "git",
