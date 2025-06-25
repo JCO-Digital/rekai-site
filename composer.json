@@ -24,7 +24,8 @@
     "wpackagist-plugin/smtp2go": "*",
     "wpackagist-plugin/spinupwp": "*",
     "wpackagist-plugin/stream": "*",
-    "jcodigital/rekai-wordpress": "^1"
+    "jcodigital/rekai-wordpress": "^1",
+    "wpackagist-plugin/plugin-check": "^1.5"
   },
   "require-dev": {
     "roave/security-advisories": "dev-latest",
