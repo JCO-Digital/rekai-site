@@ -154,16 +154,16 @@
         },
         {
             "name": "jcodigital/rekai",
-            "version": "v1.7.2",
+            "version": "v1.7.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/JCO-Digital/rekai-wordpress-dist.git",
-                "reference": "da26abd527346f25e6b3a79fce4cc10175d51549"
+                "reference": "e77abaf7f6bcd19c647a30dbc79c5589f3077db1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/JCO-Digital/rekai-wordpress-dist/zipball/da26abd527346f25e6b3a79fce4cc10175d51549",
-                "reference": "da26abd527346f25e6b3a79fce4cc10175d51549",
+                "url": "https://api.github.com/repos/JCO-Digital/rekai-wordpress-dist/zipball/e77abaf7f6bcd19c647a30dbc79c5589f3077db1",
+                "reference": "e77abaf7f6bcd19c647a30dbc79c5589f3077db1",
                 "shasum": ""
             },
             "require-dev": {
@@ -189,9 +189,9 @@
             "description": "Rek.ai integration for WordPress",
             "support": {
                 "issues": "https://github.com/JCO-Digital/rekai-wordpress-dist/issues",
-                "source": "https://github.com/JCO-Digital/rekai-wordpress-dist/tree/v1.7.2"
+                "source": "https://github.com/JCO-Digital/rekai-wordpress-dist/tree/v1.7.4"
             },
-            "time": "2025-08-18T13:59:11+00:00"
+            "time": "2025-08-18T14:33:49+00:00"
         },
         {
             "name": "wpackagist-plugin/plugin-check",
