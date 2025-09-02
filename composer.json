@@ -25,7 +25,7 @@
     "wpackagist-plugin/spinupwp": "*",
     "wpackagist-plugin/stream": "*",
     "wpackagist-plugin/plugin-check": "^1",
-    "jcodigital/rekai": "^1"
+    "jcodigital/rek-ai": "^1"
   },
   "require-dev": {
     "roave/security-advisories": "dev-latest",

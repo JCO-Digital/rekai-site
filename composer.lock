@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8947467b4c8c3cb079b5cf4722aba3af",
+    "content-hash": "893d231b92783de9026943e4e367e81a",
     "packages": [
         {
             "name": "composer/installers",
@@ -153,17 +153,17 @@
             "time": "2024-06-24T20:46:46+00:00"
         },
         {
-            "name": "jcodigital/rekai",
-            "version": "v1.8.0",
+            "name": "jcodigital/rek-ai",
+            "version": "v1.8.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/JCO-Digital/rekai-wordpress-dist.git",
-                "reference": "9fd2dacacf6af7d17519ab4169d78b0a3f8a1c50"
+                "reference": "d0f40f5c20e105fdbe5d24ff11d9356e8837e8c3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/JCO-Digital/rekai-wordpress-dist/zipball/9fd2dacacf6af7d17519ab4169d78b0a3f8a1c50",
-                "reference": "9fd2dacacf6af7d17519ab4169d78b0a3f8a1c50",
+                "url": "https://api.github.com/repos/JCO-Digital/rekai-wordpress-dist/zipball/d0f40f5c20e105fdbe5d24ff11d9356e8837e8c3",
+                "reference": "d0f40f5c20e105fdbe5d24ff11d9356e8837e8c3",
                 "shasum": ""
             },
             "require-dev": {
@@ -189,9 +189,9 @@
             "description": "Rek.ai integration for WordPress",
             "support": {
                 "issues": "https://github.com/JCO-Digital/rekai-wordpress-dist/issues",
-                "source": "https://github.com/JCO-Digital/rekai-wordpress-dist/tree/v1.8.0"
+                "source": "https://github.com/JCO-Digital/rekai-wordpress-dist/tree/v1.8.1"
             },
-            "time": "2025-09-02T10:33:53+00:00"
+            "time": "2025-09-02T10:42:16+00:00"
         },
         {
             "name": "wpackagist-plugin/plugin-check",
